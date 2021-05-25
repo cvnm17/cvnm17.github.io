@@ -1,0 +1,12 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'ms';
+    src: local("msHand"), url('./fonts/mshand.eot?#iefix')
+        format('embedded-opentype'),
+        url('./fonts/msHand.woff') format('woff'),
+        url('./fonts/msHand.otf') format('opentype'),
+        url('./fonts/msHand.ttf') format('truetype');
+        font-weight: ;
+        
+        
+}
